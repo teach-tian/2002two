@@ -1,0 +1,9 @@
+{
+"devDependencies":{ //开发环境的依赖  npm install axios --save-dev  -D
+    "vue":"2.45.0",
+    "axios":"xxxxx"
+},
+"dependencies":{ //线上环境的依赖  npm install axios --save   -S
+
+}    
+}
